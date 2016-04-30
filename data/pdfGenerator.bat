@@ -1,0 +1,1 @@
+pandoc article.md -o article.pdf --latex-engine=xelatex -V mainfont="SimSun"
